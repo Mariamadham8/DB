@@ -1,0 +1,16 @@
+C:\Users\Mariem\source\repos\data_base_project\data_base_project\bin\Debug\data_base_project.exe.config
+C:\Users\Mariem\source\repos\data_base_project\data_base_project\bin\Debug\data_base_project.exe
+C:\Users\Mariem\source\repos\data_base_project\data_base_project\bin\Debug\data_base_project.pdb
+C:\Users\Mariem\source\repos\data_base_project\data_base_project\obj\Debug\data_base_project.csproj.AssemblyReference.cache
+C:\Users\Mariem\source\repos\data_base_project\data_base_project\obj\Debug\data_base_project.Form1.resources
+C:\Users\Mariem\source\repos\data_base_project\data_base_project\obj\Debug\data_base_project.Properties.Resources.resources
+C:\Users\Mariem\source\repos\data_base_project\data_base_project\obj\Debug\data_base_project.csproj.GenerateResource.cache
+C:\Users\Mariem\source\repos\data_base_project\data_base_project\obj\Debug\data_base_project.csproj.CoreCompileInputs.cache
+C:\Users\Mariem\source\repos\data_base_project\data_base_project\obj\Debug\data_base_project.exe
+C:\Users\Mariem\source\repos\data_base_project\data_base_project\obj\Debug\data_base_project.pdb
+C:\Users\Mariem\source\repos\data_base_project\data_base_project\obj\Debug\data_base_project.employee.resources
+C:\Users\Mariem\source\repos\data_base_project\data_base_project\obj\Debug\data_base_project.home.resources
+C:\Users\Mariem\source\repos\data_base_project\data_base_project\obj\Debug\data_base_project.login.resources
+C:\Users\Mariem\source\repos\data_base_project\data_base_project\obj\Debug\data_base_project.customer2.resources
+C:\Users\Mariem\source\repos\data_base_project\data_base_project\obj\Debug\data_base_project.product2.resources
+C:\Users\Mariem\source\repos\data_base_project\data_base_project\obj\Debug\data_base_project.billing.resources
